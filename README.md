@@ -1,2 +1,2 @@
-# E-learner
-A web based learning project
+The main idea behind creating this project is to provide quality education and also meet the needs of students and teachers, especially in the current situation. 
+During a pandemic, the most affected area is the education area. Our goal is to reduce this effect by providing them the best quality education, live interaction with teachers, practice sets, assignments, etc. though there is such other platform available for learning we provide the facility of expert guidance to students as well as the teacher because without guidance one must not be able to choose the right path for our future. We have tried creating this website as interactive as it can be so that anyone can easily access it not only today but also in the future so that our users never stop learning.
